@@ -2,7 +2,9 @@
 import time 
 import random 
 import faker 
-import This_is_the_thing_you_need_to_change.py
+from This_is_the_thing_you_need_to_change.py import cafe_names
+from This_is_the_thing_you_need_to_change.py import coffees
+
 COGS_PERCENTAGE = 0.20
 
 class queue:
